@@ -209,7 +209,7 @@ body {
 
 .main-blue-button a {
   display: inline-block;
-  background-color: #ca9e00;
+  background-color: #ffc801;
   font-size: 15px;
   font-weight: 400;
   color: #fff;
@@ -217,19 +217,19 @@ body {
   padding: 12px 25px;
   border-radius: 23px;
   letter-spacing: 0.25px;
-  border-bottom: 2px solid #fff!important;
+  border-bottom: 2px solid #a07d00!important;
   transition: all .3s;
 }
 
 .main-blue-button a:hover {
-  background-color: #fff!important;
+  background-color: #daaa00!important;
   color: #bb9a22!important;
-  border-bottom: 2px solid #bb9a22!important;
+  border-bottom: 2px solid #8f7000!important;
 }
 
 .main-green-button a {
   display: inline-block;
-  background-color: #33ccc5;
+  background-color: #ffc801;
   font-size: 15px;
   font-weight: 400;
   color: #fff;
@@ -237,14 +237,14 @@ body {
   padding: 12px 25px;
   border-radius: 23px;
   letter-spacing: 0.25px;
-  border-bottom: 2px solid #4771cb!important;
+  border-bottom: 2px solid #eeba00!important;
   transition: all .3s;
 }
 
 .main-green-button a:hover {
-  background-color: #4771cb!important;
+  background-color: #daaa00!important;
   color: #fff!important;
-  border-bottom: 2px solid #33ccc5!important;
+  border-bottom: 2px solid #8f7000!important;
 }
 
 
@@ -1576,7 +1576,7 @@ form#contact textarea::placeholder {
 
 form#contact button {
   display: inline-block;
-  background-color: #33ccc5;
+  background-color: #ffc801;
   font-size: 15px;
   font-weight: 400;
   color: #fff;
@@ -1585,16 +1585,16 @@ form#contact button {
   padding: 12px 25px;
   border-radius: 23px;
   letter-spacing: 0.25px;
-  border-bottom: 2px solid #4771cb!important;
+  border-bottom: 2px solid #ffc801!important;
   transition: all .3s;
   outline: none;
   border: none;
 }
 
 form#contact button:hover {
-  background-color: #4771cb!important;
+  background-color: #daaa00!important;
   color: #fff!important;
-  border-bottom: 2px solid #33ccc5!important;
+  border-bottom: 2px solid #8f7000!important;
 }
 
 /* 
