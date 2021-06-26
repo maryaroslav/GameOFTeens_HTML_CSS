@@ -182,7 +182,7 @@ body {
 .section-heading h6 {
   font-size: 15px;
   font-weight: 700;
-  color: #33ccc5;
+  color: #ffc801;
   text-transform: uppercase;
   margin-bottom: 15px;
 
@@ -973,13 +973,6 @@ Features Style
   background-color: rgba(255,255,255,0.3);
 }
 
-.first-feature:hover .icon {
-  background-image: url(../images/features-icon-white-01.png);
-}
-
-.second-feature:hover .icon {
-  background-image: url(../images/features-icon-white-02.png);
-}
 
 .features-item .number h6 {
   background-repeat: no-repeat;
@@ -1013,12 +1006,21 @@ Features Style
 }
 
 .first-feature .icon {
-  background-image: url(../images/features-icon-black-01.png);
+  background-image: url(../images/info.png);
 }
 
 .second-feature .icon {
-  background-image: url(../images/features-icon-black-02.png);
+  background-image: url(../images/wrench.png);
 }
+
+.three-feature .icon {
+  background-image: url(../images/photoshop.png);
+}
+
+.four-feature .icon {
+  background-image: url(../images/partners.png);
+}
+
 
 .features-item .icon {
   width: 63px;
