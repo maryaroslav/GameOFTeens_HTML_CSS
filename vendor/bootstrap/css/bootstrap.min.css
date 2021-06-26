@@ -1385,6 +1385,7 @@ progress {
   .col-lg-12 {
     flex: 0 0 auto;
     width: 100%;
+    font-size: 10px;
   }
 
   .offset-lg-0 {

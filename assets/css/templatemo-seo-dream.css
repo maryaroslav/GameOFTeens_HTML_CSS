@@ -200,7 +200,7 @@ body {
 
 .section-heading h2 em {
   font-style: normal;
-  color: #33ccc5;
+  color: #ffc801;
 }
 
 .section-heading h2 span {
@@ -209,7 +209,7 @@ body {
 
 .main-blue-button a {
   display: inline-block;
-  background-color: #4771cb;
+  background-color: #ca9e00;
   font-size: 15px;
   font-weight: 400;
   color: #fff;
@@ -223,8 +223,8 @@ body {
 
 .main-blue-button a:hover {
   background-color: #fff!important;
-  color: #4771cb!important;
-  border-bottom: 2px solid #4771cb!important;
+  color: #bb9a22!important;
+  border-bottom: 2px solid #bb9a22!important;
 }
 
 .main-green-button a {
@@ -255,7 +255,7 @@ header
 */
 
 .background-header {
-  background-color: #33ccc5!important;
+  background-color: #ffc801!important;
   height: 80px!important;
   position: fixed!important;
   top: 0px;
@@ -270,7 +270,7 @@ header
 }
 
 .background-header .main-nav .nav li:hover a {
-  color: #33ccc5;
+  color: #ffc801;
 }
 
 .background-header .nav li a.active {
@@ -282,7 +282,7 @@ header
   position: absolute;
   width: 20px;
   height: 2px;
-  background-color: #4771cb;
+  background-color: #ffc801;
   content: '';
   left: 50%;
   bottom: 0px;
@@ -290,7 +290,7 @@ header
 }
 
 .header-area {
-  background-color: #33ccc5;
+  background-color: #ffc801;
   position: absolute;
   top: 0px;
   left: 0px;
@@ -903,14 +903,14 @@ Banner Style
   margin-top: 30px;
   padding-top: 20px;
   margin-bottom: 45px;
-  font-size: 60px;
+  font-size: 20px;
   font-weight: 800;
   color: #2a2a2a;
-  line-height: 72px;
+  line-height: 30px;
   background: #FA9D4D;
-  background: -webkit-linear-gradient(to right, #FA9D4D 0%, #FF4F6B 100%);
-  background: -moz-linear-gradient(to right, #FA9D4D 0%, #FF4F6B 100%);
-  background: linear-gradient(to right, #FA9D4D 0%, #FF4F6B 100%);
+  background: -webkit-linear-gradient(to right, #FA9D4D 0%, #ffd902 100%);
+  background: -moz-linear-gradient(to right, #FA9D4D 0%, #ffd902 100%);
+  background: linear-gradient(to right, #FA9D4D 0%, #ffd902 100%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
@@ -924,7 +924,6 @@ Banner Style
 .main-banner .right-image img {
   max-width: 593px;
 }
-
 
 
 /* 
